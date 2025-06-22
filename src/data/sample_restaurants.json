@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Spice Symphony",
+    "location": "Downtown",
+    "cuisine": "Indian",
+    "capacity": 40
+  },
+  {
+    "name": "Bella Pasta",
+    "location": "Uptown",
+    "cuisine": "Italian",
+    "capacity": 30
+  },
+  {
+    "name": "Sushi Zen",
+    "location": "Midtown",
+    "cuisine": "Japanese",
+    "capacity": 25
+  },
+  {
+    "name": "Taco Fiesta",
+    "location": "West End",
+    "cuisine": "Mexican",
+    "capacity": 35
+  },
+  {
+    "name": "Le Petit Bistro",
+    "location": "East Side",
+    "cuisine": "French",
+    "capacity": 20
+  },
+  {
+    "name": "Burger Haven",
+    "location": "Downtown",
+    "cuisine": "American",
+    "capacity": 50
+  },
+  {
+    "name": "Dragon Wok",
+    "location": "Chinatown",
+    "cuisine": "Chinese",
+    "capacity": 45
+  },
+  {
+    "name": "Green Leaf",
+    "location": "Uptown",
+    "cuisine": "Vegetarian",
+    "capacity": 28
+  },
+  {
+    "name": "The Greek Table",
+    "location": "Midtown",
+    "cuisine": "Greek",
+    "capacity": 22
+  },
+  {
+    "name": "Tapas Tapas",
+    "location": "West End",
+    "cuisine": "Spanish",
+    "capacity": 18
+  },
+  {
+    "name": "BBQ Barn",
+    "location": "Downtown",
+    "cuisine": "Barbecue",
+    "capacity": 38
+  },
+  {
+    "name": "Pho House",
+    "location": "East Side",
+    "cuisine": "Vietnamese",
+    "capacity": 27
+  },
+  {
+    "name": "Curry Corner",
+    "location": "Chinatown",
+    "cuisine": "Indian",
+    "capacity": 32
+  },
+  {
+    "name": "Pizza Palace",
+    "location": "Uptown",
+    "cuisine": "Italian",
+    "capacity": 40
+  },
+  {
+    "name": "Ramen Republic",
+    "location": "Midtown",
+    "cuisine": "Japanese",
+    "capacity": 24
+  },
+  {
+    "name": "Casa de Salsa",
+    "location": "West End",
+    "cuisine": "Mexican",
+    "capacity": 36
+  },
+  {
+    "name": "Cafe de Paris",
+    "location": "East Side",
+    "cuisine": "French",
+    "capacity": 21
+  },
+  {
+    "name": "Steakhouse Prime",
+    "location": "Downtown",
+    "cuisine": "Steakhouse",
+    "capacity": 55
+  },
+  {
+    "name": "Dim Sum Delight",
+    "location": "Chinatown",
+    "cuisine": "Chinese",
+    "capacity": 42
+  },
+  {
+    "name": "Vegan Vibes",
+    "location": "Uptown",
+    "cuisine": "Vegan",
+    "capacity": 26
+  },
+  {
+    "name": "Mediterraneo",
+    "location": "Midtown",
+    "cuisine": "Mediterranean",
+    "capacity": 23
+  },
+  {
+    "name": "Paella Place",
+    "location": "West End",
+    "cuisine": "Spanish",
+    "capacity": 19
+  },
+  {
+    "name": "Grill & Chill",
+    "location": "Downtown",
+    "cuisine": "American",
+    "capacity": 48
+  },
+  {
+    "name": "Noodle Nook",
+    "location": "Chinatown",
+    "cuisine": "Asian Fusion",
+    "capacity": 33
+  },
+  {
+    "name": "Falafel Factory",
+    "location": "Uptown",
+    "cuisine": "Middle Eastern",
+    "capacity": 29
+  },
+  {
+    "name": "Bistro 21",
+    "location": "Midtown",
+    "cuisine": "European",
+    "capacity": 22
+  },
+  {
+    "name": "Tandoori Nights",
+    "location": "West End",
+    "cuisine": "Indian",
+    "capacity": 34
+  },
+  {
+    "name": "La Trattoria",
+    "location": "East Side",
+    "cuisine": "Italian",
+    "capacity": 31
+  },
+  {
+    "name": "Sakura",
+    "location": "Downtown",
+    "cuisine": "Japanese",
+    "capacity": 28
+  },
+  {
+    "name": "El Mariachi",
+    "location": "Chinatown",
+    "cuisine": "Mexican",
+    "capacity": 37
+  },
+  {
+    "name": "Crepe Corner",
+    "location": "Uptown",
+    "cuisine": "French",
+    "capacity": 20
+  },
+  {
+    "name": "Smokehouse",
+    "location": "Midtown",
+    "cuisine": "Barbecue",
+    "capacity": 39
+  },
+  {
+    "name": "Pho Real",
+    "location": "West End",
+    "cuisine": "Vietnamese",
+    "capacity": 26
+  },
+  {
+    "name": "Olive Grove",
+    "location": "East Side",
+    "cuisine": "Mediterranean",
+    "capacity": 24
+  },
+  {
+    "name": "The Diner",
+    "location": "Downtown",
+    "cuisine": "American",
+    "capacity": 52
+  },
+  {
+    "name": "Wok This Way",
+    "location": "Chinatown",
+    "cuisine": "Chinese",
+    "capacity": 41
+  },
+  {
+    "name": "Herbivore",
+    "location": "Uptown",
+    "cuisine": "Vegan",
+    "capacity": 27
+  },
+  {
+    "name": "Gyro Guys",
+    "location": "Midtown",
+    "cuisine": "Greek",
+    "capacity": 23
+  },
+  {
+    "name": "Tapas Bar",
+    "location": "West End",
+    "cuisine": "Spanish",
+    "capacity": 17
+  },
+  {
+    "name": "BBQ Pit",
+    "location": "Downtown",
+    "cuisine": "Barbecue",
+    "capacity": 37
+  },
+  {
+    "name": "Saigon Street",
+    "location": "East Side",
+    "cuisine": "Vietnamese",
+    "capacity": 28
+  },
+  {
+    "name": "Bombay Bites",
+    "location": "Chinatown",
+    "cuisine": "Indian",
+    "capacity": 30
+  },
+  {
+    "name": "Pasta Fresca",
+    "location": "Uptown",
+    "cuisine": "Italian",
+    "capacity": 35
+  },
+  {
+    "name": "Sushi House",
+    "location": "Midtown",
+    "cuisine": "Japanese",
+    "capacity": 25
+  },
+  {
+    "name": "Cantina",
+    "location": "West End",
+    "cuisine": "Mexican",
+    "capacity": 32
+  },
+  {
+    "name": "Le Gourmet",
+    "location": "East Side",
+    "cuisine": "French",
+    "capacity": 22
+  },
+  {
+    "name": "Prime Cuts",
+    "location": "Downtown",
+    "cuisine": "Steakhouse",
+    "capacity": 54
+  },
+  {
+    "name": "Dumpling Den",
+    "location": "Chinatown",
+    "cuisine": "Chinese",
+    "capacity": 43
+  },
+  {
+    "name": "Veggie Table",
+    "location": "Uptown",
+    "cuisine": "Vegetarian",
+    "capacity": 28
+  }
+]
