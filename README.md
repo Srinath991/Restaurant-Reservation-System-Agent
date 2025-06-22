@@ -5,6 +5,10 @@ A conversational AI agent for restaurant search, recommendation, and booking, po
 ## Setup Instructions
 
 1. Clone the repository
+```bash
+   git clone https://github.com/Srinath991/Restaurant-Reservation-System-Agent
+   cd Restaurant-Reservation-System-Agent
+   ```
 2. Install dependencies:
    ```bash
    uv sync
